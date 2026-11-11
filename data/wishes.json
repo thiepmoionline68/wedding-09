@@ -1,0 +1,18 @@
+[
+    {
+        "id": 63,
+        "sender_name": "xxx",
+        "message": "xxxx",
+        "attendance_status": "not_attending",
+        "guest_count": 1,
+        "created_at": "06\/11\/2026 15:32"
+    },
+    {
+        "id": 30,
+        "sender_name": "Sơn",
+        "message": "HP nha",
+        "attendance_status": "unsure",
+        "guest_count": 1,
+        "created_at": "02\/11\/2026 15:51"
+    }
+]
